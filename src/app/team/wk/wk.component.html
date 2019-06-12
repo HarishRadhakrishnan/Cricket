@@ -1,0 +1,9 @@
+<p>
+    <strong>CHOOSE WICKETKEEPER</strong>
+</p>
+<ul class="team">
+  <li *ngFor="let w of wk; index as i">
+    <div [ngClass]="{'active': w.active}" (click)="listClick(i,w)">
+        <img [src]="w.img" width="40" height="40" [alt]="w.img"> &nbsp; {{w.name}}</div>
+  </li>
+</ul>

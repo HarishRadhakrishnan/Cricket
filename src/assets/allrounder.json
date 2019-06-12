@@ -1,0 +1,42 @@
+[
+    {
+        "id": "11",
+        "name": "krunal Pandya",
+        "age": "28",
+        "runs": "1300",
+        "active": false,
+        "img": "/assets/images/krunal.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Hardik Pandya",
+        "age": "26",
+        "runs": "2000",
+        "active": false,
+        "img": "/assets/images/hardik.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Ravindra Jadeja",
+        "age": "32",
+        "runs": "800",
+        "active": false,
+        "img": "/assets/images/jadeja.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Yuvraj Singh",
+        "age": "40",
+        "runs": "8000",
+        "active": false,
+        "img": "/assets/images/yuvi.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Ravichandran Ashwin",
+        "age": "28",
+        "runs": "600",
+        "active": false,
+        "img": "/assets/images/ashwin.jpg"
+    }
+]

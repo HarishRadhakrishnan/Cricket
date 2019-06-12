@@ -1,0 +1,9 @@
+<p>
+    <strong>CHOOSE ALLROUNDERS</strong>
+</p>
+<ul class="team">
+  <li *ngFor="let a of allrounder; index as i">
+    <div [ngClass]="{'active': a.active}" (click)="listClick(i,a)">
+        <img [src]="a.img" width="40" height="40" [alt]="a.img"> &nbsp; {{a.name}}</div>
+  </li>
+</ul>

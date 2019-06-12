@@ -1,0 +1,9 @@
+<p>
+  <strong>CHOOSE BOWLERS</strong>
+</p>
+<ul class="team">
+  <li *ngFor="let bl of bowler; index as i">
+    <div [ngClass]="{'active': bl.active}" (click)="listClick(i,bl)">
+        <img [src]="bl.img" width="40" height="40" [alt]="bl.img"> &nbsp; {{bl.name}}</div>
+  </li>
+</ul>

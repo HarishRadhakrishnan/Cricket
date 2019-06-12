@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "Virat Kohli",
+        "age": "30",
+        "runs": "10000",
+        "active": false,
+        "img": "/assets/images/virat.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Suresh Raina",
+        "age": "42",
+        "runs": "8576",
+        "active": false,
+        "img": "/assets/images/raina.jpg"
+    },
+    {
+        "id": "3",
+        "name": "K L Rahul",
+        "age": "28",
+        "runs": "4005",
+        "active": false,
+        "img": "/assets/images/rahul.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Rohit Sharma",
+        "age": "32",
+        "runs": "5000",
+        "active": false,
+        "img": "/assets/images/rohit.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Shikar Dhawan",
+        "age": "30",
+        "runs": "3480",
+        "active": false,
+        "img": "/assets/images/dhawan.jpg"
+    }
+]

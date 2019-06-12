@@ -1,0 +1,18 @@
+[
+    {
+        "id": "6",
+        "name": "M S Dhoni",
+        "age": "44",
+        "runs": "10000",
+        "active": false,
+        "img": "/assets/images/dhoni.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Dinesh Karthik",
+        "age": "38",
+        "runs": "8576",
+        "active": false,
+        "img": "/assets/images/dinesh.jpg"
+    }
+]

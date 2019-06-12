@@ -1,0 +1,55 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+div.card-header {
+  font-size: large;
+}
+   
+div.card {
+  margin-top: 10px
+}
+
+.table {
+  margin-top: 10px
+}
+
+.container{
+  margin-top: 20px
+}
+
+.team{
+  padding: 0px
+}
+
+.team > li{
+  list-style: none;
+  background-color: dimgrey;
+  color: white;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.team div{
+  padding: 8px 10px;
+}
+
+.team > li:hover{
+  color: white;
+  background-color: crimson;
+}
+
+.team li .active{
+  color: white;
+  background-color: crimson;
+}
+
+@media (max-width:767.99px){
+  .team > li{
+    width: 100%;
+  }
+}
+@media (min-width:768px){
+  .team > li{
+    width: 30%;
+  }
+}

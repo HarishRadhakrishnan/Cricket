@@ -1,0 +1,26 @@
+[
+    {
+        "id": "8",
+        "name": "Jasprit Bhumrah",
+        "age": "30",
+        "runs": "10000",
+        "active": false,
+        "img": "/assets/images/jasprit.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Bhuvaneshwar Kumar",
+        "age": "28",
+        "runs": "4005",
+        "active": false,
+        "img": "/assets/images/bhuvi.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Mohammad Shami",
+        "age": "30",
+        "runs": "320",
+        "active": false,
+        "img": "/assets/images/shami.jpg"
+    }
+]
